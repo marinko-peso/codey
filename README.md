@@ -1,2 +1,11 @@
 # codey
-:snake: :squirrel: Encode your stuff fast from cli
+Encode your stuff fast from cli
+
+
+## Usage
+
+
+
+## License
+
+MIT.
